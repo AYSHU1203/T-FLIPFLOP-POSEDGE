@@ -31,7 +31,8 @@ From the above characteristic table, we can directly write the next state equati
 /* write all the steps invloved */
 
 **PROGRAM**
-``module exp9(T,clk,Q,Qbar);
+```
+module exp9(T,clk,Q,Qbar);
  input T,clk;
  output reg Q;
  output reg Qbar;
@@ -42,9 +43,7 @@ From the above characteristic table, we can directly write the next state equati
 Q=(T&(~Q))|((~T)&Q);
  Qbar=~Q;
  end
- endmodule`
-
-
+ endmodule
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
