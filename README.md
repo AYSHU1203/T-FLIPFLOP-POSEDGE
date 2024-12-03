@@ -50,11 +50,13 @@ Q=(T&(~Q))|((~T)&Q);
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-03 125818](https://github.com/user-attachments/assets/9324a88e-1039-4c9b-954c-12e3a2f07673)
+![WhatsApp Image 2024-12-03 at 13 07 05_72f1291d](https://github.com/user-attachments/assets/bbc4a0a0-6e06-4c92-8ed7-9a7cc1e05ef4)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-12-03 125942](https://github.com/user-attachments/assets/8edf432a-2752-4d4c-a6df-c877fce12e40)
+![WhatsApp Image 2024-12-03 at 13 06 53_8b7375a6](https://github.com/user-attachments/assets/49b7e104-6ab9-4050-a20a-226e69d100d1)
+
 
 
 **RESULTS**Thus the T FLIPFLOP implemented successfully and truth table has verified
